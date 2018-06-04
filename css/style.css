@@ -1,0 +1,70 @@
+header {
+    min-height: 150px;
+    font-size: 30px;
+}
+.one_p1 {
+    height: 100px;
+    margin-top: 27px;
+}
+.two-p { 
+    min-height: 150px;;
+}
+.two-common {
+    min-height: 50px;
+    margin-top: 15px;
+}
+#body {
+    min-height: 600px;
+    background-color: #002542 ;
+}
+.three-p {
+    min-height: 500px;
+    font-size: 30px;
+}
+.three-common {
+    background-color: red;
+    margin-top: 15px;
+}
+.three-p1 {
+    height: 200px;
+}
+.three-p2 { height: 100px;}
+.three-p3 { height: 100px;}
+.three-p4 { height: 200px;}
+
+#body2 {
+    height: 500px;
+    margin-top: 25px;
+    
+    font-size: 30px;
+}
+.body-p2 {
+    height: 250px;
+}
+.four-p1 {height: 150px;}
+.four-p2 {height: 85px;} 
+.five-p {}
+.five-p1 {
+height: 85px;
+}
+.five-p2 {height: 150px;}
+.six-p1 { height: 122px;
+background-color: whitesmoke;}
+.six-p2 {height: 122px;
+background-color: whitesmoke;}
+.seven {
+    height: 260px;
+    background-color: whitesmoke;
+}
+.eight {
+    min-height: 150px;
+    background-color: blueviolet
+}
+.eight-p {
+    min-height: 100px;
+    background-color: white;
+    margin-top: 25px;
+    font-size: 30px;
+}
+
+
